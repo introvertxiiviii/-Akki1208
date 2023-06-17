@@ -1,0 +1,23 @@
+
+  
+  /* Media query for mobile devices */
+  @media (max-width: 767px) {
+    video {
+      position: relative;
+      height: 600px;
+    }
+  }
+
+
+  .animated-img {
+    transition: transform 0.3s ease;
+  }
+  
+  .animated-img:hover {
+    transform: scale(1.1);
+  }
+  
+
+  .nodecoration{
+    text-decoration: none;
+  }
