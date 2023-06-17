@@ -8,6 +8,10 @@
     }
   }
 
+  .video-section {
+    max-width: 100%;
+    overflow: hidden;
+  }
 
   .animated-img {
     transition: transform 0.3s ease;
