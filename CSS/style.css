@@ -4,7 +4,7 @@
   @media (max-width: 767px) {
     video {
       position: relative;
-      height: 600px;
+      height: 500px;
     }
   }
 
@@ -26,7 +26,14 @@
     text-decoration: none;
   }
 
-.changevideowidth {
+
+  .navbar {
+    background-color: grey; /* Add your preferred light shade color here */
+  }
+
+
+
+  .changevideowidth {
  width: 1029px; 
  height: 577px;
   }
