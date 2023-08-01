@@ -8,9 +8,7 @@
 
       
       /* Reduce top padding for mobile to account for smaller screen */
-      .first-section {
-        padding-top: 50px;
-      }
+    
     }
 
     /* Media query for tablet devices */
